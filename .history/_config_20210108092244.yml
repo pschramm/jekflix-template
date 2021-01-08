@@ -33,7 +33,7 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: false
+show_time_bar: true
 show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -100,4 +100,4 @@ exclude: [
 ]
 
 # Theme
-version: v0.0.1
+version: v1.1.0
