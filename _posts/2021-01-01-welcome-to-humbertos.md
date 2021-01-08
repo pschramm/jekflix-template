@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/pop2/image/upload/v1610067294/theme6_qeeojf_ze3jpc.jpg
+  https://res.cloudinary.com/pop2/image/upload/v1610067988/theme6_qeeojf_kgpej6.jpg
 optimized_image: >-
- https://res.cloudinary.com/pop2/image/upload/v1610067294/theme6_qeeojf_ze3jpc.jpg
+ https://res.cloudinary.com/pop2/image/upload/v1610067988/theme6_qeeojf_kgpej6.jpg
 category: blog
 tags:
   - welcome
