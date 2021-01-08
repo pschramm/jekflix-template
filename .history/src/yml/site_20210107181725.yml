@@ -19,4 +19,4 @@ menu:
     url: /feed.xml
 email: youremail@test.com
 disqus_username: disqus_username
-paginate: 2
+paginate: 12
